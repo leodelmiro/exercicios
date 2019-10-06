@@ -14,3 +14,9 @@
 
 ![Mini-Max Sum2](https://i.imgur.com/SOy9zu8.png)
 
+# Staircase
+
+![Staircase](https://i.imgur.com/M8yEOM2.png)
+
+![Staircase](https://i.imgur.com/EnXsnZD.png)
+

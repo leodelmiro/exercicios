@@ -21,7 +21,7 @@ fun diagonalDifference(arr: Array<Array<Int>>): Int {
         secondaryDiagonal += arr[i][arraySize - 1 - i]
     }
 
-    return Math.abs(primaryDiagonal - secondaryDiagonal)
+    return Math.abs(primaryDiagonal - secondaryDiagonal) //Ou apenas .abs (HackerRank .abs não funciona)
 }
 
 fun main(args: Array<String>) {

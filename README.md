@@ -20,9 +20,9 @@
 
 ![Staircase](https://i.imgur.com/EnXsnZD.png)
 
-# [Staircase](https://github.com/leodelmiro/exercicios/blob/master/DiagonalDifference.kt)
+# [DiagonalDifference](https://github.com/leodelmiro/exercicios/blob/master/DiagonalDifference.kt)
 
-![Staircase](https://i.imgur.com/isEPYJx.png)
+![DiagonalDifference](https://i.imgur.com/isEPYJx.png)
 
-![Staircase](https://i.imgur.com/S6QlSsw.png)
+![DiagonalDifference](https://i.imgur.com/S6QlSsw.png)
 

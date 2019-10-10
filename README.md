@@ -18,18 +18,18 @@
 
 ![Staircase](https://i.imgur.com/M8yEOM2.png)
 
-![Staircase](https://i.imgur.com/EnXsnZD.png)
+![Staircase2](https://i.imgur.com/EnXsnZD.png)
 
 # [DiagonalDifference](https://github.com/leodelmiro/exercicios/blob/master/DiagonalDifference.kt)
 
 ![DiagonalDifference](https://i.imgur.com/isEPYJx.png)
 
-![DiagonalDifference](https://i.imgur.com/S6QlSsw.png)
+![DiagonalDifference2](https://i.imgur.com/S6QlSsw.png)
 
 # [CamelCase](https://github.com/leodelmiro/exercicios/blob/master/CamelCase.kt)
 
 ![CamelCase](https://i.imgur.com/LYdFilA.png)
 
-![CamelCase](https://i.imgur.com/T0vfAsT.png)
+![CamelCase2](https://i.imgur.com/T0vfAsT.png)
 
 

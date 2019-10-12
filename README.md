@@ -32,4 +32,7 @@
 
 ![CamelCase2](https://i.imgur.com/T0vfAsT.png)
 
+# [TimeConvertion](https://github.com/leodelmiro/exercicios/blob/master/TimeConvertion.kt)
+
+![TimeConvertion](https://i.imgur.com/GHmGTIB.png)
 

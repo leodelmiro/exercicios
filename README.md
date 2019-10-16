@@ -36,3 +36,13 @@
 
 ![TimeConvertion](https://i.imgur.com/GHmGTIB.png)
 
+# [Breaking the Records](https://github.com/leodelmiro/exercicios/blob/master/BreakingTheRecords.kt)
+
+![Breaking the Records](https://i.imgur.com/f67xCJR.png)
+
+![Breaking the Records](https://i.imgur.com/qI4e7WS.png)
+
+![Breaking the Records](https://i.imgur.com/QNGYL2D.png)
+
+
+

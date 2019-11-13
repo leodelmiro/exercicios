@@ -50,10 +50,15 @@
 
 ![Bon Appetit](https://i.imgur.com/QRyRvD1.png)
 
-# [IntroToTutorialChallenges](https://github.com/leodelmiro/exercicios/blob/master/IntroToTutorialChallenges.kt)
+# [Intro To Tutorial Challenges](https://github.com/leodelmiro/exercicios/blob/master/IntroToTutorialChallenges.kt)
 
-![IntroToTutorialChallenges](https://i.imgur.com/dh8LK7p.png)
+![Intro To Tutorial Challenges](https://i.imgur.com/dh8LK7p.png)
 
+# [Viral Advertising](https://github.com/leodelmiro/exercicios/blob/master/ViralAdvertising.kt)
+
+![Viral Advertising](https://i.imgur.com/AGzCFEn.png)
+
+![Viral Advertising](https://i.imgur.com/1Lyew3N.png)
 
 
 

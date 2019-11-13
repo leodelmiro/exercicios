@@ -1,5 +1,3 @@
-package hackerRank
-
 import java.io.*
 import java.math.*
 import java.text.*

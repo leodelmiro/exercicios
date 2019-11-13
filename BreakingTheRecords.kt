@@ -1,5 +1,3 @@
-package hackerRank
-
 import java.util.*
 import kotlin.collections.*
 import kotlin.io.*

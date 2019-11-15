@@ -22,11 +22,17 @@
 
 ![CamelCase2](https://i.imgur.com/T0vfAsT.png)
 
-# [DiagonalDifference](https://github.com/leodelmiro/exercicios/blob/master/DiagonalDifference.kt)
+# [DiagonalDifference](https://github.com/leodelmiro/exercicios/blob/master/GradingStudents.kt)
 
-![DiagonalDifference](https://i.imgur.com/isEPYJx.png)
+![DiagonalDifference](https://i.imgur.com/z6wVh8n.png)
 
-![DiagonalDifference2](https://i.imgur.com/S6QlSsw.png)
+![DiagonalDifference2](https://i.imgur.com/glVPb0S.png)
+
+# [Grading Students](https://github.com/leodelmiro/exercicios/blob/master/DiagonalDifference.kt)
+
+![Grading Students](https://i.imgur.com/isEPYJx.png)
+
+![Grading Students](https://i.imgur.com/S6QlSsw.png)
 
 # [Intro To Tutorial Challenges](https://github.com/leodelmiro/exercicios/blob/master/IntroToTutorialChallenges.kt)
 

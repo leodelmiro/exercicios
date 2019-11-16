@@ -1,3 +1,11 @@
+# [Apple and Orange](https://github.com/leodelmiro/exercicios/blob/master/AppleAndOrange.kt)
+
+![Apple and Orange](https://i.imgur.com/Po8Pcx9.png)
+
+![Apple And Orange](https://i.imgur.com/MlWwC5I.png)
+
+![Apple And Orange](https://i.imgur.com/5Q1GASg.png)
+
 # [Bon Appetit](https://github.com/leodelmiro/exercicios/blob/master/BonAppetit.kt)
 
 ![Bon Appetit](https://i.imgur.com/VpkcnLH.png)

@@ -46,6 +46,14 @@
 
 ![Intro To Tutorial Challenges](https://i.imgur.com/dh8LK7p.png)
 
+# [Kangaroo](https://github.com/leodelmiro/exercicios/blob/master/Kangaroo.kt)
+
+![Kangaroo](https://i.imgur.com/eQt2D7E.png)
+
+![Kangaroo](https://i.imgur.com/45TsKU9.png)
+
+![Kangaroo](https://i.imgur.com/jMSM1hD.png)
+
 # [Mini-Max Sum](https://github.com/leodelmiro/exercicios/blob/master/minMaxSum.kt)
 
 ![Mini-Max Sum](https://i.imgur.com/bdi27d4.png)

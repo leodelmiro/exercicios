@@ -36,12 +36,15 @@
 
 ![Cats And a Mouse](https://i.imgur.com/5xat6nH.png)
 
-
 # [DiagonalDifference](https://github.com/leodelmiro/exercicios/blob/master/GradingStudents.kt)
 
 ![DiagonalDifference](https://i.imgur.com/z6wVh8n.png)
 
 ![DiagonalDifference2](https://i.imgur.com/glVPb0S.png)
+
+# [Divisible Sum Pairs](https://github.com/leodelmiro/exercicios/blob/master/DivisibleSumPairs.kt)
+
+![Divisible Sum Pairs](https://i.imgur.com/2Ernt0b.png)
 
 # [Grading Students](https://github.com/leodelmiro/exercicios/blob/master/DiagonalDifference.kt)
 

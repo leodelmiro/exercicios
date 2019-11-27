@@ -30,6 +30,13 @@
 
 ![CamelCase2](https://i.imgur.com/T0vfAsT.png)
 
+# [Cats And a Mouse](https://github.com/leodelmiro/exercicios/blob/master/CatsAndAMouse.kt)
+
+![Cats And a Mouse](https://i.imgur.com/fL16pPY.png)
+
+![Cats And a Mouse](https://i.imgur.com/5xat6nH.png)
+
+
 # [DiagonalDifference](https://github.com/leodelmiro/exercicios/blob/master/GradingStudents.kt)
 
 ![DiagonalDifference](https://i.imgur.com/z6wVh8n.png)
